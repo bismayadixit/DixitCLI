@@ -78,15 +78,5 @@ cd dixit-cli
 
 ---
 
-### 🏆 Final Advice
-This README is **interview-ready** and **recruiter-friendly**.  
-Pin this repository on your GitHub profile for maximum impact.
 
-If you want:
-- A **banner image**
-- A **demo GIF**
-- **Interview explanation notes**
-- **Project PPT**
-
-Just say the word, **Mr. Dixit** 👑
 
